@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvkhubani&layout=compact)](https://github.com/luvkhubani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khubaniluv&layout=compact)](https://github.com/khubaniluv/github-readme-stats)
 
 ---
